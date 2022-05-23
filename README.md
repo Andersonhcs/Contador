@@ -1,4 +1,4 @@
-# Contador
+# Contador Utilizando HTML | CSS | JavaScript
 
 - Contagem progressiva e regressiva
 - Contagem com intervalos
